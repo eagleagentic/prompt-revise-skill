@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Revise"
+  short_description: "Rewrite prompts using GPT-5.6 guidance"
+  default_prompt: "Use $prompt-revise to rewrite this prompt for GPT-5.6 while preserving its intended behavior."
